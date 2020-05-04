@@ -1,2 +1,2 @@
 # Hackathon
-This repo is based on notebook and data from different hackathon.
+This repo is based on notebook and data from different hackathons in which I have participated.
